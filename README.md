@@ -1,6 +1,6 @@
 # My Project
 
-Description of your project goes here.
+This is how my Chess-2D project looks like:
 
 ## Screenshots
 
