@@ -1,6 +1,6 @@
 # My Project
 
-This is how my Chess-2D project looks like:
+Overview of my Chess-2D project looks like:
 
 ## Screenshots
 
